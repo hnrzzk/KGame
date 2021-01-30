@@ -1,2 +1,5 @@
 rootProject.name = 'GameServer'
+include 'Config'
+include 'Common'
+include 'Net'
 
